@@ -1,6 +1,6 @@
 # SMIC-Umbrella-Project
 SMIC Computer Club Umbrella Machine project repository.
-Henry Han, Percy jang, Max fu, Christopher Liu
+Henry Han, Percy Jang, Max Fu, Christopher Liu
 
 # Umbrella Candidates
 1. https://item.taobao.com/item.htm?id=524643050454&ali_refid=a3_420434_1006:1121919423:N:雨伞折叠:7d1fac6a69f3fe969b1f2c4200954836&ali_trackid=1_7d1fac6a69f3fe969b1f2c4200954836&spm=a230r.1.0.0.EcN20x  (21.9kuai)
